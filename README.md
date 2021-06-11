@@ -3,7 +3,7 @@ Debugging utility modules for Python 3 code.
 
 ## Installing
 ```bash
-pip install git+https://github.com/asascience-open/python3-debug-utils#egg=python3-debug-utils
+pip install git+https://github.com/asascience-open/python3-debug-utils@v1.0.0#egg=python3-debug-utils
 ```
 ## Provides
 The following modules are provided:
