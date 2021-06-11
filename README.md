@@ -8,7 +8,7 @@ pip install git+https://github.com/asascience-open/python3-debug-utils#egg=pytho
 ## Provides
 The following modules are provided:
 
-### `functinternals`
+### `funcinternals`
 
 Provides deep introspection of function internal state at runtime; dumps to log file or terminal.
 Supports displaying images in-line on supported frame-buffer terminals like iTerm2 and xterm.
