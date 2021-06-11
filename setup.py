@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="py3dbgutil",
+    name="python3-debug-utils",
     version="1.0.0",
     author="Benjamin R. Hall",
     author_email="ben.hall@rpsgroup.com",
