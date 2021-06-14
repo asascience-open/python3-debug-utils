@@ -88,3 +88,6 @@ list: [1, 2, 3, 4]
 <class 'str'>
 var = 'http://example.com'
 ```
+
+## TODO
+- Add support for defining custom type-handler `to_string` methods for complex types.
